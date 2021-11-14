@@ -17,6 +17,6 @@ https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_imagepredictio
 3. Twitter API for each tweet's JSON library and store in a file called tweet-json.txt file.
  # Assessing and Cleaning Data
  Fixed quality and tidiness issues which mentioned in notebook
- # Storing data
+ # Storing Data
  Merge 3 datasets to twitter_archive_master.csv 
 
