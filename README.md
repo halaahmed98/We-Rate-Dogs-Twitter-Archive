@@ -12,8 +12,6 @@ of 10. The numerators, though? Almost always greater than 10. 11/10,
 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has
 over 4 million followers and has received international media coverage.
 # Project Details
-this project is as follows:
-1. Data wrangling, which consists of:
 -  Gathering data (downloadable file in the Resources).
 -  Assessing and Cleaning data
 - Storing, analyzing, and visualizing your wrangled data
