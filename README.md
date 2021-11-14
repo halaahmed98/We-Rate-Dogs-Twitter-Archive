@@ -5,7 +5,6 @@ Matt Nelson, and has received international media attention both for its
 popularity and for the attention drawn to social media copyright law when
 it was suspended by Twitter for breaking these aforementioned laws.
 # Project Details
-The "Wrangle and Analyze Data" is the final project for Data Analysis Professional Nanodegree Program at udacity .
 -  Gathering data (downloadable file in the Resources).
 -  Assessing and Cleaning data
 - Storing, analyzing, and visualizing your wrangled data
