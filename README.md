@@ -7,7 +7,7 @@ it was suspended by Twitter for breaking these aforementioned laws.
 # Project Details
 -  Gathering data (downloadable file in the Resources).
 -  Assessing and Cleaning data
-- Storing, analyzing, and visualizing your wrangled data
+- Storing, analyzing, and visualizing data
 # Gathering Data
 Gather each of the three pieces of data as described below in a Jupyter Notebook titled
 wrangle_act.ipynb:
